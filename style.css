@@ -1,9 +1,9 @@
 /* style html github */ 
 
 #div1 {
+    
     width: 200px;
     height: 200px;
     border-style: solid black;
     background-color: yellow;
-    
 }
